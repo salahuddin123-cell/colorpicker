@@ -1,0 +1,19 @@
+.container{
+height: 100vh;
+text-align: center;
+align-items: center;
+justify-content: center;
+background: #BD2EA9;
+}
+#btn1{
+    background:rgb(89, 141, 10);
+    border-radius: 10%;
+    color: white;
+    margin-top: 20vh;
+    height: 70px;
+    width: 120px;
+    line-height: 50px;
+}
+.color{
+    padding-top: 10vh;
+}
